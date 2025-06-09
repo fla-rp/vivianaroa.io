@@ -4,14 +4,15 @@
   font-style: normal;
 }
 h1 {
-    color: blue;
+    color: white;
     display: flex;
     justify-content: center;
 }
 .parrafo1{
     display: flex;
-    justify-content: end;
+    justify-content: center;
 }
+
 body {
     background-color: black;
     color: bisque;
