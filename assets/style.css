@@ -3,19 +3,33 @@
   font-weight: 400;
   font-style: normal;
 }
+header{
+    margin: 50px;
+}
 h1 {
-    color: white;
+    color: rgb(246, 239, 239);
     display: flex;
     justify-content: center;
+}
+h2{
+    color: rgb(248, 244, 244);
+    text-align: center;
 }
 .parrafo1{
     display: flex;
     justify-content: center;
+    padding: 10px;
 }
-
+section{
+    padding: 50px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
 body {
-    background-color: black;
-    color: bisque;
+    background-image: url(./img/fondo_2.jpg);
+    background-repeat: no-repeat;
+    background-size:contain;
+    color:rgb(10, 1, 0);
 }
 footer{
     color: white;
