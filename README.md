@@ -6,9 +6,8 @@ https://vivi-azul.github.io/vivianaroa.io/
 Se utilizó:
 HTML, CSS, Bootstrap.
 
+
 Forkeados:
-https://github.com/Vivi-azul/jorgiahannydev.github.io
+https://github.com/Vivi-azul/jorgiahannydev.github.io.git
 
-
-
-
+https://github.com/Vivi-azul/MacarenaAlvarezR.github.io.git
